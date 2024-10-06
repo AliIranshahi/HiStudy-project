@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+[lang="fa-IR"]{
+    direction: rtl;
+}
+[lang*="en"]{
+    direction: ltr;
+}
+img{
+    width: 100%;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+}
+*ul{
+    padding: 0;
+    margin: 0;
+}
